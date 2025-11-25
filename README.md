@@ -3,9 +3,16 @@
 <h3 align="center">Software Engineering Undergraduate | Full-Stack & Mobile Developer</h3>
 
 <p align="center">
+  <p align="center">
   <a href="mailto:hussainiyahasan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
+</p>
+
+<p align="center">
+  📧 <a href="mailto:hussainiyahasan@gmail.com">hussainiyahasan@gmail.com</a>
+</p>
+
   <a href="https://www.linkedin.com/in/hussainiya-hasan123" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Hussainiya%20Hasan-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
