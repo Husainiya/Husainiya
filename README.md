@@ -126,6 +126,6 @@
 ## 🤝 Let’s Connect & Collaborate
 
 - 💬 Ask me about **MERN, Android, REST APIs, AI/ML, Power BI, data structures**  
-- 🌍 Open to **remote & hybrid** opportunities  
-- 📫 Reach me via **LinkedIn** or **email**
+- 🌍 Open to **Remote & Hybrid** opportunities  
+- 📫 Reach me via **LinkedIn** or **Email**
 
