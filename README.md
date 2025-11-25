@@ -3,7 +3,6 @@
 <h3 align="center">Software Engineering Undergraduate | Full-Stack & Mobile Developer</h3>
 
 <div align="center">
-
   <!-- Contact Badges -->
   <a href="mailto:hussainiyahasan@gmail.com" aria-label="Email">
     <img alt="Email" src="https://img.shields.io/badge/Email-hussainiyahasan%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
@@ -14,23 +13,21 @@
   <a href="https://github.com/Husainiya" target="_blank" rel="noopener">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Husainiya-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
 </div>
 
 ---
 
 ## 👩‍💻 About Me
 
-<p align="right"> 
-  <img src="https://media.giphy.com/media/xUPGcxpCV81ebKhK2k/giphy.gif" width="200" alt="Typing on Computer">
+<p align="right">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200" alt="Typing on Computer" style="border-radius:8px;">
 </p>
-
 
 - 🎓 **BSc (Hons) in Information Technology** – Undergraduate  
 - 💼 **Software Engineer Intern** at **IT Starter Pvt Ltd**  
-- 💡 Passionate about **full-stack development, AI/ML, automation, and data-driven applications**  
-- 🌱 Currently exploring **cloud technologies, scalable web apps & ML workflows**  
-- 🚀 Open to **internships, freelance projects, and collaborations**
+- 💡 Passionate about **Full-Stack Development, AI/ML, Automation & Data-Driven Applications**  
+- 🌱 Currently exploring **Cloud Technologies, Scalable Web Apps & ML Workflows**  
+- 🚀 Open to **Internships, Freelance Projects & Collaborations**
 
 ---
 
@@ -111,7 +108,7 @@
 ## 🎴 Personal Motto
 
 <div align="center">
-  <img alt="Random Dev Quote" src="https://readme-quotes.vercel.app/api?type=vertical&theme=radical" style="border-radius:12px;" />
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="150" alt="Motivation Typing Gif" style="border-radius:12px;" />
   <div style="background-color:#000000; color:#FFA500; padding:16px 24px; border-radius:16px; font-weight:bold; display:inline-block; margin-top:16px;">
     <span style="font-size:16px;">Favourite Personal Motto</span><br/>
     <span style="font-size:14px; font-style:italic;">“Code, learn, repeat – every day a better version of me.”</span>
