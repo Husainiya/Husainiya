@@ -3,7 +3,6 @@
 <h3 align="center">Software Engineering Undergraduate | Full-Stack & Mobile Developer</h3>
 
 <div align="center">
-
   <!-- Contact Badges -->
   <a href="mailto:hussainiyahasan@gmail.com" aria-label="Email">
     <img alt="Email" src="https://img.shields.io/badge/Email-hussainiyahasan%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
@@ -14,13 +13,11 @@
   <a href="https://github.com/Husainiya" target="_blank" rel="noopener">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Husainiya-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
 </div>
 
 ---
 
 ## 👩‍💻 About Me
-
 - 🎓 **BSc (Hons) in Information Technology** – Undergraduate  
 - 💼 **Software Engineer Intern** at **IT Starter Pvt Ltd**  
 - 💡 Passionate about **full-stack development, AI/ML, automation, and data-driven applications**  
@@ -82,20 +79,20 @@
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Stats & Contributions
 <div align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Husainiya&show_icons=true&theme=radical&bg_color=000000&text_color=FFA500&icon_color=FFA500" />
   <br />
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Husainiya&theme=radical&background=000000&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakNum=FFA500&sideNums=FFA500" />
   <br />
   <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Husainiya&layout=compact&theme=radical&bg_color=000000&text_color=FFA500&title_color=FFA500" />
+  <br />
+  <img alt="GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Husainiya&theme=react-dark&bg_color=000000&color=FFA500&line=FFA500&point=FFA500" />
 </div>
 
 ---
 
 ## 💬 What I Work With
-
 - 💻 **Web & Mobile**: MERN, Next.js, Vue, REST APIs, Android (Kotlin/Java)  
 - 🤖 **AI / ML**: Python-based ML, data analysis, Jupyter notebooks, basic models & pipelines  
 - 📊 **Data / BI**: Power BI dashboards, reports, data visualization  
@@ -104,7 +101,6 @@
 ---
 
 ## 🎴 Personal Motto
-
 <div align="center">
   <img alt="Random Dev Quote" src="https://readme-quotes.vercel.app/api?type=vertical&theme=radical" style="border-radius:12px;" />
   <div style="background-color:#000000; color:#FFA500; padding:16px 24px; border-radius:16px; font-weight:bold; display:inline-block; margin-top:16px;">
@@ -116,7 +112,6 @@
 ---
 
 ## 🤝 Let’s Connect
-
 - 💬 Ask me about **MERN, Android, REST APIs, AI/ML, Power BI, data structures**  
 - 🌍 Open to **Remote & Hybrid** opportunities  
 - 📫 Reach me via **LinkedIn** or **Email**
