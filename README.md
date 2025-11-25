@@ -118,28 +118,17 @@
 ## 🎴 Personal Motto Card
 
 <div align="center">
-  <!-- Live random quote image (changes on each page load) -->
+
+  <!-- Live random quote image -->
   <img alt="Random Dev Quote" src="https://readme-quotes.vercel.app/api?type=vertical&theme=radical" />
 
-  <!-- Your personal motto in a stylish card -->
-  <div style="
-      background: linear-gradient(135deg, #FFA500, #000000); 
-      color: #ffffff; 
-      padding: 20px 30px; 
-      border-radius: 16px; 
-      display: inline-block; 
-      margin-top: 16px; 
-      box-shadow: 0 4px 15px rgba(0,0,0,0.4);
-      font-size: 16px;
-      font-weight: 600;
-      text-align: center;
-      max-width: 400px;
-  ">
-    <strong>Favourite Personal Motto</strong><br/>
-    “Code, learn, repeat – every day a better version of me.”
+  <!-- Motto card using a black background and orange text -->
+  <div align="center" style="background-color:#000000; color:#FFA500; padding:16px 24px; border-radius:16px; font-weight:bold; display:inline-block; margin-top:16px;">
+    <span style="font-size:16px;">Favourite Personal Motto</span><br/>
+    <span style="font-size:14px; font-style:italic;">“Code, learn, repeat – every day a better version of me.”</span>
   </div>
-</div>
 
+</div>
 
 ---
 
