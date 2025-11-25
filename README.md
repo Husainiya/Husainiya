@@ -17,6 +17,16 @@
 
 ---
 
+## 🎴 Personal Motto
+<div align="center">
+  <div style="background-color:#000000; color:#FFA500; padding:16px 24px; border-radius:16px; font-weight:bold; display:inline-block;">
+    <span style="font-size:16px;">Favourite Personal Motto</span><br/>
+    <span style="font-size:14px; font-style:italic;">“Code, learn, repeat – every day a better version of me.”</span>
+  </div>
+</div>
+
+---
+
 ## 👩‍💻 About Me
 - 🎓 **BSc (Hons) in Information Technology** – Undergraduate  
 - 💼 **Software Engineer Intern** at **IT Starter Pvt Ltd**  
@@ -27,7 +37,6 @@
 ---
 
 ## 🛠 Tech Stack
-
 ### 🚀 Programming & Scripting
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
@@ -79,15 +88,16 @@
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## 📊 GitHub Stats
 <div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Husainiya&show_icons=true&theme=radical&bg_color=000000&text_color=FFA500&icon_color=FFA500" />
-  <br />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Husainiya&theme=radical&background=000000&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakNum=FFA500&sideNums=FFA500" />
-  <br />
-  <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Husainiya&layout=compact&theme=radical&bg_color=000000&text_color=FFA500&title_color=FFA500" />
-  <br />
-  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Husainiya&theme=react-dark)
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Husainiya&show_icons=true&theme=dark" />
+  <br/>
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Husainiya&theme=dark" />
+  <br/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husainiya&layout=compact&theme=dark" />
+  <br/>
+  <!-- Contribution Graph -->
+  <img alt="GitHub Contributions" src="https://ghchart.rshah.org/Husainiya" />
 </div>
 
 ---
@@ -97,17 +107,6 @@
 - 🤖 **AI / ML**: Python-based ML, data analysis, Jupyter notebooks, basic models & pipelines  
 - 📊 **Data / BI**: Power BI dashboards, reports, data visualization  
 - 🛠 **Dev & Tools**: Git, GitHub, Postman, Firebase, Figma  
-
----
-
-## 🎴 Personal Motto
-<div align="center">
-  <img alt="Random Dev Quote" src="https://readme-quotes.vercel.app/api?type=vertical&theme=radical" style="border-radius:12px;" />
-  <div style="background-color:#000000; color:#FFA500; padding:16px 24px; border-radius:16px; font-weight:bold; display:inline-block; margin-top:16px;">
-    <span style="font-size:16px;">Favourite Personal Motto</span><br/>
-    <span style="font-size:14px; font-style:italic;">“Code, learn, repeat – every day a better version of me.”</span>
-  </div>
-</div>
 
 ---
 
