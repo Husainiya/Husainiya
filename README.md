@@ -51,7 +51,6 @@
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
   <img alt="Vue" src="https://img.shields.io/badge/Vue.js-42B883?logo=vuedotjs&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
   <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
@@ -99,7 +98,7 @@
 ---
 
 ## 💬 What I Work With
-- 💻 **Web & Mobile**: MERN, Next.js, Vue, REST APIs, Android (Kotlin/Java)  
+- 💻 **Web & Mobile**: MERN,Vue.js, REST APIs, Android (Kotlin/Java)  
 - 🤖 **AI / ML**: Python-based ML, data analysis, Jupyter notebooks, basic models & pipelines  
 - 📊 **Data / BI**: Power BI dashboards, reports, data visualization  
 - 🛠 **Dev & Tools**: Git, GitHub, Postman, Firebase, Figma  
