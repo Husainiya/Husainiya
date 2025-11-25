@@ -38,52 +38,52 @@
 ## 🛠 Tech Stack
 
 ### 🚀 Programming & Scripting
-<p align="center">
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img alt="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
-  <img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+<p align="left">
+  <img alt="Python" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/python.svg" width="40" height="40"/>
+  <img alt="Java" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/java.svg" width="40" height="40"/>
+  <img alt="C++" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/cplusplus.svg" width="40" height="40"/>
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/javascript.svg" width="40" height="40"/>
+  <img alt="R" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/r.svg" width="40" height="40"/>
+  <img alt="Bash" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gnubash.svg" width="40" height="40"/>
 </p>
 
 ### 🌐 Web & App Development
-<p align="center">
-  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
-  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
-  <img alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+<p align="left">
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/html5.svg" width="40" height="40"/>
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/css3.svg" width="40" height="40"/>
+  <img alt="React" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/react.svg" width="40" height="40"/>
+  <img alt="Next.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/nextdotjs.svg" width="40" height="40"/>
+  <img alt="Vue" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/vue-dot-js.svg" width="40" height="40"/>
+  <img alt="Node.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/nodedotjs.svg" width="40" height="40"/>
+  <img alt="Express" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/express.svg" width="40" height="40"/>
+  <img alt="Bootstrap" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/bootstrap.svg" width="40" height="40"/>
+  <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tailwindcss.svg" width="40" height="40"/>
 </p>
 
 ### 🤖 AI / ML & Data
-<p align="center">
-  <img alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-  <img alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img alt="Jupyter Notebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
-  <img alt="Power BI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40"/>
+<p align="left">
+  <img alt="TensorFlow" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/tensorflow.svg" width="40" height="40"/>
+  <img alt="Pandas" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/pandas.svg" width="40" height="40"/>
+  <img alt="Jupyter Notebook" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/jupyter.svg" width="40" height="40"/>
+  <img alt="Power BI" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/powerbi.svg" width="40" height="40"/>
 </p>
 
 ### 🗄 Databases & Data Tech
-<p align="center">
-  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img alt="Oracle SQLPlus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/>
-  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img alt="RoomDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
+<p align="left">
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/mysql.svg" width="40" height="40"/>
+  <img alt="Oracle SQLPlus" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/oracle.svg" width="40" height="40"/>
+  <img alt="MongoDB" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/mongodb.svg" width="40" height="40"/>
+  <img alt="RoomDB" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/android.svg" width="40" height="40"/>
 </p>
 
 ### 📱 Mobile, Tools & Design
-<p align="center">
-  <img alt="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
-  <img alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+<p align="left">
+  <img alt="Android Studio" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/androidstudio.svg" width="40" height="40"/>
+  <img alt="Postman" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/postman.svg" width="40" height="40"/>
+  <img alt="Git" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/git.svg" width="40" height="40"/>
+  <img alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" width="40" height="40"/>
+  <img alt="Firebase" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/firebase.svg" width="40" height="40"/>
+  <img alt="Figma" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/figma.svg" width="40" height="40"/>
 </p>
 
 ---
