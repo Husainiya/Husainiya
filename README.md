@@ -21,8 +21,8 @@
 
 ## 👩‍💻 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="200" alt="Coding Gif">
+<p align="left">
+  <img src="https://media.giphy.com/media/xUPGcxpCV81ebKhK2k/giphy.gif" width="200" alt="Typing on Computer" style="border-radius:8px;">
 </p>
 
 - 🎓 **BSc (Hons) in Information Technology** – Undergraduate  
@@ -96,11 +96,16 @@
 ## 🎴 Personal Motto
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abxqPy9FyM1lYp2/giphy.gif" width="150" alt="Motivation Gif" style="border-radius:12px;">
-  <div style="background: linear-gradient(90deg, #FF8008, #FFC837); color:#000000; padding:16px 24px; border-radius:16px; font-weight:bold; display:inline-block; margin-top:16px;">
-    <span style="font-size:16px;">Favourite Personal Motto</span><br/>
-    <span style="font-size:14px; font-style:italic;">“Code, learn, repeat – every day a better version of me.”</span>
-  </div>
+
+<!-- Live random quote -->
+<img alt="Random Dev Quote" src="https://readme-quotes.vercel.app/api?type=vertical&theme=nightowl" />
+
+<!-- Personal motto -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 16px 24px; border-radius: 12px; display: inline-block; margin-top: 16px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <strong style="font-size: 1.1em;">🌟 Personal Motto</strong><br/>
+  <em>"Code, learn, repeat – every day a better version of me."</em>
+</div>
+
 </div>
 
 ---
