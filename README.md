@@ -21,53 +21,11 @@
 
 ## 👩‍💻 About Me
 
-<div align="center">
-  <div id="typing-container" style="background-color: #0d1117; border-radius: 10px; padding: 20px; margin: 20px 0; border: 1px solid #30363d;">
-    <span id="typing-text" style="font-size: 18px; color: #58a6ff; font-family: 'Courier New', monospace;"></span>
-    <span class="cursor" style="display: inline-block; width: 8px; height: 20px; background-color: #58a6ff; margin-left: 2px; animation: blink 1s infinite;"></span>
-  </div>
-</div>
-
-<style>
-@keyframes blink {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0; }
-}
-</style>
-
-<script>
-// Typing effect script
-document.addEventListener('DOMContentLoaded', function() {
-  const text = "🎓 BSc (Hons) in Information Technology – Undergraduate | 💼 Software Engineer Intern at IT Starter Pvt Ltd | 💡 Passionate about full-stack development, AI/ML, automation, and data-driven applications | 🌱 Currently exploring cloud technologies, scalable web apps & ML workflows | 🚀 Open to internships, freelance projects, and collaborations";
-  const typingElement = document.getElementById('typing-text');
-  let i = 0;
-  const speed = 50; // typing speed in milliseconds
-  
-  function typeWriter() {
-    if (i < text.length) {
-      // Add the next character
-      typingElement.innerHTML += text.charAt(i);
-      i++;
-      
-      // Scroll to keep the typing in view
-      const container = document.getElementById('typing-container');
-      container.scrollTop = container.scrollHeight;
-      
-      setTimeout(typeWriter, speed);
-    } else {
-      // Restart the typing effect after a delay
-      setTimeout(() => {
-        i = 0;
-        typingElement.innerHTML = '';
-        typeWriter();
-      }, 5000); // Wait 5 seconds before restarting
-    }
-  }
-  
-  // Start the typing effect
-  typeWriter();
-});
-</script>
+- 🎓 **BSc (Hons) in Information Technology** – Undergraduate  
+- 💼 **Software Engineer Intern** at **IT Starter Pvt Ltd**  
+- 💡 Passionate about **full-stack development, AI/ML, automation, and data-driven applications**  
+- 🌱 Currently exploring **cloud technologies, scalable web apps & ML workflows**  
+- 🚀 Open to **internships, freelance projects, and collaborations**
 
 ---
 
@@ -151,13 +109,13 @@ document.addEventListener('DOMContentLoaded', function() {
   <img alt="Random Dev Quote" src="https://readme-quotes.vercel.app/api?type=vertical&theme=radical" style="border-radius:12px;" />
   <div style="background-color:#000000; color:#FFA500; padding:16px 24px; border-radius:16px; font-weight:bold; display:inline-block; margin-top:16px;">
     <span style="font-size:16px;">Favourite Personal Motto</span><br/>
-    <span style="font-size:14px; font-style:italic;">"Code, learn, repeat – every day a better version of me."</span>
+    <span style="font-size:14px; font-style:italic;">“Code, learn, repeat – every day a better version of me.”</span>
   </div>
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
 - 💬 Ask me about **MERN, Android, REST APIs, AI/ML, Power BI, data structures**  
 - 🌍 Open to **Remote & Hybrid** opportunities  
