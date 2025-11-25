@@ -20,7 +20,7 @@
 
 - 🎓 **BSc (Hons) in Information Technology** – Undergraduate  
 - 💼 **Software Engineer Intern** at **IT Starter Pvt Ltd**
-- 💡 Passionate about **full-stack development, automation, and data-driven applications**
+- 💡 Passionate about **full-stack development, AI/ML, automation, and data-driven applications**
 - 🌱 Currently exploring **cloud, system design & scalable web apps**
 - 🚀 Open to **internships, freelance projects, and collaborations**
 
@@ -53,6 +53,12 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
 </p>
 
+### 🤖 AI / ML & Data
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-1D3557?style=for-the-badge" />
+</p>
+
 ### 🗄 Databases & Data Technologies
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
@@ -61,7 +67,7 @@
   <img src="https://img.shields.io/badge/Room%20DB-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 </p>
 
-### 📱 Mobile & Tools
+### 📱 Mobile, Tools & Design
 <p>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" />
@@ -69,6 +75,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
@@ -76,25 +83,53 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Husainiya&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Husainiya&show_icons=true&theme=radical" 
+    alt="GitHub Stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Husainiya&theme=radical" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Husainiya&theme=radical" 
+    alt="GitHub Streak" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husainiya&layout=compact&theme=radical" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Husainiya&layout=compact&theme=radical" 
+    alt="Top Languages" 
+  />
+</p>
+
+---
+
+## 💬 What I Work With
+
+- 💻 **Web & Mobile**: MERN, REST APIs, Android (Kotlin/Java)  
+- 🤖 **AI / ML**: Python-based ML, basic models & data analysis  
+- 🛠 **Dev & Tools**: Git, GitHub, Postman, Firebase, Figma  
+
+---
+
+## 🎴 Daily Motivation
+
+<p align="center">
+  <img src="https://readme-quotes.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote" />
+</p>
+
+<p align="center">
+  <b>Favourite Personal Motto:</b><br/>
+  <span style="background-color:#1f2933; color:#f9fafb; padding:10px 18px; border-radius:12px; display:inline-block; margin-top:8px;">
+    “Code, learn, repeat – every day a better version of me.”
+  </span>
 </p>
 
 ---
 
 ## 🤝 Let’s Connect & Collaborate
 
-- 💬 Ask me about **MERN, Android, REST APIs, basic data structures**
+- 💬 Ask me about **MERN, Android, REST APIs, AI/ML, data structures**
 - 🌍 Open to **remote & hybrid** opportunities
 - 📫 Reach me via **LinkedIn** or **email**
-
-<p align="center">
-  <i>“Code, learn, repeat – every day a better version of me.”</i>
-</p>
