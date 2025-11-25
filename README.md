@@ -121,12 +121,25 @@
   <!-- Live random quote image (changes on each page load) -->
   <img alt="Random Dev Quote" src="https://readme-quotes.vercel.app/api?type=vertical&theme=radical" />
 
-  <!-- Your personal motto in a card-style box -->
-  <div style="background:#111827; color:#f9fafb; padding:12px 20px; border-radius:12px; display:inline-block; margin-top:12px;">
+  <!-- Your personal motto in a stylish card -->
+  <div style="
+      background: linear-gradient(135deg, #FFA500, #000000); 
+      color: #ffffff; 
+      padding: 20px 30px; 
+      border-radius: 16px; 
+      display: inline-block; 
+      margin-top: 16px; 
+      box-shadow: 0 4px 15px rgba(0,0,0,0.4);
+      font-size: 16px;
+      font-weight: 600;
+      text-align: center;
+      max-width: 400px;
+  ">
     <strong>Favourite Personal Motto</strong><br/>
     “Code, learn, repeat – every day a better version of me.”
   </div>
 </div>
+
 
 ---
 
