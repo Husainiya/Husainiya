@@ -17,16 +17,6 @@
 
 ---
 
-## 🎴 Personal Motto
-<div align="center">
-  <div style="background-color:#000000; color:#FFA500; padding:16px 24px; border-radius:16px; font-weight:bold; display:inline-block;">
-    <span style="font-size:16px;">Favourite Personal Motto</span><br/>
-    <span style="font-size:14px; font-style:italic;">“Code, learn, repeat – every day a better version of me.”</span>
-  </div>
-</div>
-
----
-
 ## 👩‍💻 About Me
 - 🎓 **BSc (Hons) in Information Technology** – Undergraduate  
 - 💼 **Software Engineer Intern** at **IT Starter Pvt Ltd**  
@@ -37,14 +27,15 @@
 ---
 
 ## 🛠 Tech Stack
+
 ### 🚀 Programming & Scripting
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-EDD222?logo=javascript&logoColor=black&style=for-the-badge" />
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" />
-  
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" />
 </p>
 
 ### 🌐 Web & App Development
@@ -52,6 +43,7 @@
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
   <img alt="Vue" src="https://img.shields.io/badge/Vue.js-42B883?logo=vuedotjs&logoColor=white&style=for-the-badge" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
   <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
@@ -87,22 +79,33 @@
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## 📊 GitHub Stats
 <div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Husainiya&show_icons=true&theme=dark" />
-  <br/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husainiya&layout=compact&theme=dark" />
-  <br/>
-  
+  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Husainiya&show_icons=true&theme=radical&bg_color=000000&text_color=FFA500&icon_color=FFA500" />
+  <br />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Husainiya&theme=radical&background=000000&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakNum=FFA500&sideNums=FFA500" />
+  <br />
+  <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Husainiya&layout=compact&theme=radical&bg_color=000000&text_color=FFA500&title_color=FFA500" />
 </div>
 
 ---
 
 ## 💬 What I Work With
-- 💻 **Web & Mobile**: MERN, Vue, REST APIs, Android (Kotlin/Java)  
+- 💻 **Web & Mobile**: MERN, Next.js, Vue, REST APIs, Android (Kotlin/Java)  
 - 🤖 **AI / ML**: Python-based ML, data analysis, Jupyter notebooks, basic models & pipelines  
 - 📊 **Data / BI**: Power BI dashboards, reports, data visualization  
 - 🛠 **Dev & Tools**: Git, GitHub, Postman, Firebase, Figma  
+
+---
+
+## 🎴 Personal Motto
+<div align="center">
+  <img alt="Random Dev Quote" src="https://readme-quotes.vercel.app/api?type=vertical&theme=radical" style="border-radius:12px;" />
+  <div style="background-color:#000000; color:#FFA500; padding:16px 24px; border-radius:16px; font-weight:bold; display:inline-block; margin-top:16px;">
+    <span style="font-size:16px;">Favourite Personal Motto</span><br/>
+    <span style="font-size:14px; font-style:italic;">“Code, learn, repeat – every day a better version of me.”</span>
+  </div>
+</div>
 
 ---
 
