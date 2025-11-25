@@ -19,9 +19,9 @@
 
 ## 🎴 Personal Motto
 <div align="center">
-  <div style="background-color:#000000; color:#FFA500; padding:20px 28px; border-radius:16px; font-weight:bold; display:inline-block; text-align:center;">
+  <div style="background-color:#black; color:#FFA500; padding:20px 28px; border-radius:16px; font-weight:bold; display:inline-block; text-align:center;">
     <span style="font-size:18px;">Favourite Personal Motto</span><br/>
-    <span style="font-size:15px; font-style:italic;">“Code, learn, repeat – every day a better version of me.”</span>
+    <img alt="Random Dev Quote" src="https://readme-quotes.vercel.app/api?type=vertical&theme=radical" style="margin-top:12px; border-radius:12px;" />
   </div>
 </div>
 
