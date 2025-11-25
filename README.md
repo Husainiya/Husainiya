@@ -90,12 +90,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Husainiya&show_icons=true&theme=radical" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Husainiya&show_icons=true&theme=radical&bg_color=000000&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF" />
   <br />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Husainiya&theme=radical" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Husainiya&theme=radical&background=000000&fire=FFA500&currStreakNum=FFFFFF&currStreakLabel=FFA500&sideNums=FFFFFF" />
   <br />
-  <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Husainiya&layout=compact&theme=radical" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husainiya&layout=compact&theme=radical&bg_color=000000&title_color=FFA500&text_color=FFFFFF" />
 </div>
+
 
 ---
 
