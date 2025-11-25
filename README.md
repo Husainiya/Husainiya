@@ -87,7 +87,7 @@
   <br />
   <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Husainiya&layout=compact&theme=radical&bg_color=000000&text_color=FFA500&title_color=FFA500" />
   <br />
-  <img alt="GitHub Contribution Graph" src="https://activity-graph.herokuapp.com/graph?username=Husainiya&theme=react-dark&bg_color=000000&color=FFA500&line=FFA500&point=FFA500" />
+  ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Husainiya&theme=react-dark)
 </div>
 
 ---
