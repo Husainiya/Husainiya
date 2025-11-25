@@ -93,7 +93,7 @@
   <br />
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Husainiya&theme=radical&background=000000&stroke=FFA500&ring=FFA500&fire=FFA500&currStreakNum=FFA500&sideNums=FFA500" />
   <br />
-  <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Husainiya&layout=compact&theme=radical&bg_color=000000&text_color=FFA500&title_color=FFA500" />
+  
 </div>
 
 ---
