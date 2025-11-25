@@ -17,11 +17,11 @@
 
 ---
 
-## 🎴 Personal Motto
-
+## 🚀 Motivational Quote
 <div align="center">
   <img alt="Random Dev Quote" src="https://readme-quotes.vercel.app/api?type=vertical&theme=dark" style="border-radius:12px;" />
 </div>
+
 
 
 ---
