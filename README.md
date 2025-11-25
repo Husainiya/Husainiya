@@ -88,16 +88,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contributions
 <div align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Husainiya&show_icons=true&theme=dark" />
   <br/>
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Husainiya&theme=dark" />
-  <br/>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husainiya&layout=compact&theme=dark" />
   <br/>
-  <!-- Contribution Graph -->
-  <img alt="GitHub Contributions" src="https://ghchart.rshah.org/Husainiya" />
+  <img alt="GitHub Contributions" src="https://activity-graph.herokuapp.com/graph?username=Husainiya&theme=react-dark&hide_border=true" />
 </div>
 
 ---
