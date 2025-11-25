@@ -6,7 +6,7 @@
 
   <!-- Primary email badge -->
   <a href="mailto:hussainiyahasan@gmail.com" aria-label="Email">
-    <img alt="Email" src="https://img.shields.io/badge/Email-hussainiyahasan%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f2a38">
+    <img alt="Email" src="https://img.shields.io/badge/Email-hussainiyahasan%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f2a38" />
   </a>
 
   <a href="https://www.linkedin.com/in/hussainiya-hasan123" target="_blank" rel="noopener">
@@ -61,7 +61,7 @@
   <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-TensorFlow?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1f2a38" />
   <img alt="Data Analysis" src="https://img.shields.io/badge/Data%20Analysis-Pandas?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1f2a38" />
   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=1f2a38" />
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F26C11?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=1f2a38" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=1f2a38" />
 </p>
 
 ### 🗄 Databases & Data Tech
@@ -81,47 +81,3 @@
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge&labelColor=1f2a38" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge&labelColor=1f2a38" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Husainiya&show_icons=true&theme=radical&hide_title=true&bg_color=000000&text_color=FFA500" />
-  <br />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Husainiya&theme=radical&hide_border=true&background=000000&stroke=FFA500&ring=FFA500&fire=FFA500" />
-  <br />
-  <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Husainiya&layout=compact&theme=radical&bg_color=000000&text_color=FFA500" />
-</div>
-
----
-
-## 💬 What I Work With
-
-- 💻 **Web & Mobile**: MERN, Next.js, Vue, REST APIs, Android (Kotlin/Java)  
-- 🤖 **AI / ML**: Python-based ML, data analysis, Jupyter notebooks, basic models & pipelines  
-- 📊 **Data / BI**: Power BI dashboards, reports, data visualisation  
-- 🛠 **Dev & Tools**: Git, GitHub, Postman, Firebase, Figma  
-
----
-
-## 🎴 Live Quote (auto-changing) + Personal Motto Card
-
-<div align="center">
-  <!-- Live random quote image -->
-  <img alt="Random Dev Quote" src="https://readme-quotes.vercel.app/api?type=vertical&theme=radical" />
-
-  <!-- Your personal motto card -->
-  <div style="background:#000000; color:#FFA500; padding:14px 22px; border-radius:12px; display:inline-block; margin-top:12px; font-weight:bold;">
-    “Code, learn, repeat – every day a better version of me.”
-  </div>
-</div>
-
----
-
-## 🤝 Let’s Connect & Collaborate
-
-- 💬 Ask me about **MERN, Android, REST APIs, AI/ML, Power BI, data structures**  
-- 🌍 Open to **remote & hybrid** opportunities  
-- 📫 Reach me via **LinkedIn** or **email (click the badge at top)**
-
