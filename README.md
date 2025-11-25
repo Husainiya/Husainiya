@@ -4,13 +4,12 @@
 
 <div align="center">
 
-  <!-- Primary email badge (recommended) -->
+  <!-- Primary email badge -->
   <a href="mailto:hussainiyahasan@gmail.com" aria-label="Email">
     <img alt="Email" src="https://img.shields.io/badge/Email-hussainiyahasan%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <!-- Fallback email badge (if shields.io images blocked) -->
-  <!-- Uncomment the next line and comment the above anchor if needed -->
+  <!-- Fallback plain-text email (use if badges ever break) -->
   <!-- <a href="mailto:hussainiyahasan@gmail.com" style="font-weight:600; margin-left:6px;">📧 hussainiyahasan@gmail.com</a> -->
 
   <a href="https://www.linkedin.com/in/hussainiya-hasan123" target="_blank" rel="noopener">
@@ -62,8 +61,10 @@
 
 ### 🤖 AI / ML & Data
 <p>
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-TF?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-TensorFlow?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img alt="Data Analysis" src="https://img.shields.io/badge/Data%20Analysis-Pandas?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ### 🗄 Databases & Data Tech
@@ -89,13 +90,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Working mirror for readme stats -->
   <img alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Husainiya&show_icons=true&theme=radical" />
   <br />
-  <!-- Streak (fallback: some providers are rate-limited; if this doesn't show, try removing or replacing the image) -->
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Husainiya&theme=radical" />
   <br />
-  <!-- Top languages -->
   <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Husainiya&layout=compact&theme=radical" />
 </div>
 
@@ -104,8 +102,9 @@
 ## 💬 What I Work With
 
 - 💻 **Web & Mobile**: MERN, Next.js, Vue, REST APIs, Android (Kotlin/Java)  
-- 🤖 **AI / ML**: Python-based ML, data analysis, basic models & pipelines  
-- 🛠 **Dev & Tools**: Git, GitHub, Postman, Firebase, Figma
+- 🤖 **AI / ML**: Python-based ML, data analysis, Jupyter notebooks, basic models & pipelines  
+- 📊 **Data / BI**: Power BI dashboards, reports, data visualisation  
+- 🛠 **Dev & Tools**: Git, GitHub, Postman, Firebase, Figma  
 
 ---
 
@@ -126,17 +125,7 @@
 
 ## 🤝 Let’s Connect & Collaborate
 
-- 💬 Ask me about **MERN, Android, REST APIs, AI/ML, data structures**  
+- 💬 Ask me about **MERN, Android, REST APIs, AI/ML, Power BI, data structures**  
 - 🌍 Open to **remote & hybrid** opportunities  
 - 📫 Reach me via **LinkedIn** or **email (click the badge at top)**
-
----
-
-### Notes & troubleshooting (quick)
-
-1. **If an image doesn't show**: GitHub sometimes blocks hotlinking from some providers. If any badge or image fails to appear:
-   - Try the fallback plain-text email link (uncomment the fallback line near the top).
-   - Or replace the image URL with another badge provider (I can do that for any specific badge you want).
-2. **If GitHub stats fail**: the `github-readme-stats-sigma-five.vercel.app` mirror is usually reliable; if that fails, tell me and I’ll swap to a different mirror or generate static images you host in the repo.
-3. **Want animations?** I can add a typing animation header or a small animated SVG for the motto — tell me which and I’ll add it.
 
