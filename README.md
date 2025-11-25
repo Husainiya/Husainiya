@@ -21,6 +21,11 @@
 
 ## 👩‍💻 About Me
 
+<p align="right"> 
+  <img src="https://media.giphy.com/media/xUPGcxpCV81ebKhK2k/giphy.gif" width="200" alt="Typing on Computer">
+</p>
+
+
 - 🎓 **BSc (Hons) in Information Technology** – Undergraduate  
 - 💼 **Software Engineer Intern** at **IT Starter Pvt Ltd**  
 - 💡 Passionate about **full-stack development, AI/ML, automation, and data-driven applications**  
